@@ -73,7 +73,7 @@ Result: 50.00
 
 ## 👥 Author
 
-<a href="https://github.com/Aditya-Kumar24">
+<a href="https://github.com/aditya-forge">
   <img src="https://img.shields.io/badge/Aditya_Kumar-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
